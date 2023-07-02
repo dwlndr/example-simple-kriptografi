@@ -1,3 +1,3 @@
 # kriptografi
 
-##Mata Kuliah : Keamanan Jaringan 
+Mata Kuliah : Keamanan Jaringan 
